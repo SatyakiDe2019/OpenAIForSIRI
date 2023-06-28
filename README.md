@@ -72,7 +72,7 @@ Note that the debug indicator is set to "Y". This will generate logs. If you cha
 
 ## Resources
 
-- To view the complete demo with sound, check out our [YouTube Page](https://youtu.be/EBMDSOcik4Y).
+- To view the complete demo with sound, check out our [YouTube Page](https://youtu.be/xQW82Uy1OgA).
 - To view on Python, check out the [Python Page](https://docs.python.org/3/).
 - To view more on the OpenAI, check out this [OpenAI Official Page](https://platform.openai.com/examples).
 - To view more on the ngrok, check out this [NGROK Official Page](https://ngrok.com/docs).
