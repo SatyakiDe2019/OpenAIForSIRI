@@ -1,4 +1,4 @@
-# Enabling OpenAI-based NLP engine with SIRI (MacBook/IPad/iPhone) through a proxy-driven restricted API using Python.
+# Enabling OpenAI-based NLP engine with SIRI (MacBook/iPad/iPhone) through a proxy-driven restricted API using Python.
 
 ![Logos.jpeg](Logos.jpeg)
 
