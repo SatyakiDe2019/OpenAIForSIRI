@@ -1,10 +1,10 @@
-# Enabling OpenAI-based NLP engine with SIRI (MacBook/iPad/iPhone) through a proxy-driven restricted API using Python.
+# Enabling OpenAI-based NLP engine with SIRI (MacBook/IPad/iPhone) through a proxy-driven restricted API using Python.
 
 ![Logos.jpeg](Logos.jpeg)
 
 ## About this package
 
-This new solution will expose a controlled proxy API built using Python, which enables OpenAI APIs & integrates that with SIRI (One of the world's most popular personal voice assistants). This application was developed using Flask, openai, NGROK & other useful libraries. This project is for the advanced Python developer & Data Science Newbi's.
+This new solution will expose a controlled proxy API built using Python, which enables OpenAI APIs & integrates that with SIRI (One of the world's most popular personal voice assistants). This application developed using Flask, openai, NGROK & other useful libraries. This project is for the advanced Python developer & Data Science Newbi's.
 
 
 ## How to use this package
@@ -43,6 +43,10 @@ ngrok http http://<IP_Address from previous steps>:5000
 ```
 
 Make sure, the port number has to be same as displayed in the first steps.
+
+Now, run the Apple Shortcuts as shown below -
+
+![ShorcutsFin.jpg](ShorcutsFin.jpg)
 
 Please find the some of the important dependent package -
 
