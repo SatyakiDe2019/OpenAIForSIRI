@@ -1,0 +1,8 @@
+Flask==2.3.2
+python-dateutil==2.8.2
+numpy==1.24.3
+openai==0.27.7
+openapi-schema-pydantic==1.2.4
+packaging==23.1
+pandas==2.0.1
+requests==2.31.0
